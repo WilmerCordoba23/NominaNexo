@@ -29,6 +29,7 @@ NóminaNexo es un sistema automatizado de gestión de nóminas diseñado para si
 - Frontend: HTML, SCSS, JavaScript
 - Otros: Git, GitHub, Trello, PlanetScale
 
+
 ### Contribuciones:
 
 ¡Estamos abiertos a colaboradores y contribuciones de la comunidad! Si estás interesado en contribuir al proyecto, ¡no dudes en ponerte en contacto con nosotros!
